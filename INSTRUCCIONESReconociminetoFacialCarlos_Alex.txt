@@ -1,0 +1,24 @@
+Equipo: Carlos Caballero, Alondra Gámez, Alexander González 
+     Prepárate para calificar a tus alumnos
+1.	Sentarte
+2.	Tener tu computadora en un lugar seguro y frente a ti
+3.	Conectarla a la corriente eléctrica 
+4.	Abrir tu computadora
+5.	Encender tu computadora
+6.	Desbloquear tu computadora
+     Descargar el archivo del equipo 
+7.	Abrir el siguiente enlace: https://github.com/Caba21/ReconocimientofacialCarlos_Alex
+8.	Descargar toda la carpeta 
+9.	Descomprimir en una carpeta especifica en el escritorio 
+10.	Abrir la carpeta ya descomprimida
+11.	Descomprimir la carpeta de Dataset en dicha carpeta 
+12.	Abrir en visual code la carpeta completa del proyecto 
+13.	Abrir el archivo de Reconocimiento.py 
+14.	Descargar en la terminal de visual code lo siguiente: pip install opencv-contrib-python --no-cache-dir
+15.	Copiar como ruta de acceso la carpeta del Dataset
+16.	Remplazar dicho path en la parte del código que dice dataPath = ‘(path propio)’
+17.	Cambiar en el path todas las diagonales inversas (\) por diagonales normales (/)
+18.	Correr el código 
+19.	Verificar que funcione.
+
+#larga vida al gatito#
